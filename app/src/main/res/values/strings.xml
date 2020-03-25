@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Form Pendaftaran</string>
+    <string name="judul">PENDAFTARAN</string>
+    <string name="namadpn">Nama Depan</string>
+    <string name="namablkng">Nama Belakang</string>
+    <string name="tempatlhr">Tempat Lahir</string>
+    <string name="tanggallhr">Tanggal Lahir</string>
+    <string name="almt">Alamat</string>
+    <string name="jnisklmn">Jenis Kelamin</string>
+    <string name="laki">Laki-Laki</string>
+    <string name="prmpn">Perempuan</string>
+    <string name="agm">Agama</string>
+    <string name="islm">Islam</string>
+    <string name="ktlk">Katolik</string>
+    <string name="budha">Buddha</string>
+    <string name="alrn">Aliran Kepercayaan</string>
+    <string name="krstn">Kristen</string>
+    <string name="hnd">Hindu</string>
+    <string name="knghc">Konghucu</string>
+    <string name="tlpn">Telepon</string>
+    <string name="eml">Email</string>
+    <string name="pswrd">Password</string>
+    <string name="masknpaswrd">Masukkan Password Kembali</string>
+    <string name="kmbl">Kembali</string>
+    <string name="dftr">Daftar</string>
+</resources>
